@@ -1,0 +1,18 @@
+{
+    "SurgeUSLS": {
+        "address": "0x2e62e57d1d36517d4b0f329490ac1b78139967c0",
+        "symbol": "USELESS",
+		"icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10851.png",
+		"color": 15382313,
+        "fees": {
+            "buy": 0.08,
+            "sell": 0.08,
+            "staked": 0.06,
+            "transfer": 0.04
+        },
+        "allows_staking": true,
+        "underlying_asset_sell_fee": 0.08,
+        "table_name": "surge_useless",
+		"decimal_display": 12
+    }
+  }

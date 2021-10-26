@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Specific Files
+daily_report_list.json
+error_log.log
+error_log_daily_send.log
