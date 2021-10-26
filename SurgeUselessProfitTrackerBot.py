@@ -59,7 +59,7 @@ def createCustomHelpEmbedMessage():
         title="Available SurgeUseless Profit Tracker Bot Commands",
         description="Here are all the available commands for the SurgeUseless Profit Tracker Bot.", 
         color=0x22B4AB)
-    embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/902346003229843518/902346661332930621/sUselesslogo.png")
+    embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/892852181802291215/902575307666628608/sUselesslogo.png")
     embed.add_field(name="calculate, calc", value="Calculates your overall Surge Useless Token value.  Requires you to provide your BEP-20 public wallet address.", inline=False)
     # embed.add_field(name="calculate_manual, calc_manual", value="Calculates your overall Surge Token value.  You must provide the token you wish to caluclate and your public wallet address.  Example: !calculate_manual SurgeADA 0x00a...", inline=False)
     # embed.add_field(name="list", value="View available tokens to choose from.", inline=False)
